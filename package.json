@@ -1,5 +1,5 @@
 {
-  "homepage": "http://peterstrongg.github.io/reddit-user-analytics",
+  "homepage": "http://peterstrongg.github.io/react-reddit-user-analytics",
   "name": "reddit-user-analytics",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npn run-build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
