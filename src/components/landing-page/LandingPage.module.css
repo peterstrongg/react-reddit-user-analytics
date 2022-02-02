@@ -1,0 +1,41 @@
+.landingpage-container {
+    color: white;
+    background-color: rgb(36, 36, 36, 0.9);
+    width: 65rem;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.landingpage-left {
+    text-align: left;   
+    width: 100%;
+    flex: 2;  
+}
+
+.landingpage-content {
+    width: 35rem;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landingpage-content p {
+    font-size: larger;
+    text-indent: 15px;
+}
+
+.landingpage-right {
+    flex: 1;
+    width: 100%;
+}
+
+.landingpage-form {
+    margin-top: 65px;
+    margin-bottom: 50px;
+}

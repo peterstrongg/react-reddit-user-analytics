@@ -1,0 +1,45 @@
+.header-container {
+    background-color: #242424;
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.header-left {
+    white-space: nowrap;
+    flex: 4;
+
+
+}
+.header-left h2 {
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 25rem;
+    max-width: 95%;
+}
+.header-right {
+    margin-top: 20px;
+    flex: 4;
+
+}
+
+.header-right,
+.header-left {
+
+}
+
+@media (max-width: 640px) {
+    .header-left {
+        margin-left: auto;
+        margin-right: auto;
+        white-space: wrap;
+        text-align: center;
+        max-width: 95%;
+    }
+    .header-right {
+        margin-bottom: 15px;
+    }
+}

@@ -1,0 +1,19 @@
+.topsubs-title h2 {
+    width: 45rem;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+.topsubs-container {
+    width: 60rem;
+    max-width: 95%;
+    color: #000000;
+    background-color: rgb(236, 236, 236);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}

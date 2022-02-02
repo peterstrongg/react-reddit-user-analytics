@@ -1,0 +1,18 @@
+.karmabysublist-container {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.karmabysublist-container ul {
+    list-style: none;
+}
+
+.karmabysublist-container li {
+    text-align: left;
+    white-space: nowrap;
+}
+
+.karmalist-title {
+    border-bottom: 1px solid black;
+}

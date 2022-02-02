@@ -1,0 +1,32 @@
+.form-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.form-input {
+    width: 200px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;   
+}
+.form-input:focus {
+    outline: none;
+}
+
+.form-submit-button {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-size: 20px;
+    color: #FFFCF9;
+    background-color: #46c0b8;
+    border: 1px solid black;
+    border-left: none;
+    white-space: nowrap;
+}
+
+.form-submit-button:hover {
+    cursor: pointer;
+    background-color: #318681;
+}

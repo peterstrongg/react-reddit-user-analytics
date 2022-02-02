@@ -1,0 +1,18 @@
+.subs-list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.subs-list-container ul {
+    list-style: none;
+}
+
+.subs-list-container li {  
+    text-align: left;
+    white-space: nowrap;
+}
+
+.sub-list-title {
+    border-bottom: 1px solid black;
+}
+
