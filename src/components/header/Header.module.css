@@ -26,10 +26,6 @@
 
 }
 
-.header-right,
-.header-left {
-
-}
 
 @media (max-width: 640px) {
     .header-left {

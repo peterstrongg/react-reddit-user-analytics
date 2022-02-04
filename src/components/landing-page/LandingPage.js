@@ -15,6 +15,7 @@ const LandingPage = () => {
                         by your reddit post history and comment history. Data is generated 
                         from your last 100 posts and comments using Reddit's user API.    
                     </p>  
+                    <h3><a href="https://www.github.com/peterstrongg/react-reddit-user-analytics" target="_blank" rel="noreferrer">GitHub Page</a></h3>
                 </div>              
             </div>
             <div className={classes['landingpage-right']}>

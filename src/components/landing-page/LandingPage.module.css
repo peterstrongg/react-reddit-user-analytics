@@ -30,12 +30,30 @@
     text-indent: 15px;
 }
 
+.landingpage-content a {
+    color: white;
+    text-decoration: none;
+    background-color: #46c0b8;;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid black;
+}
+
+.landingpage-content a:hover {
+    background-color: #318681;
+}
+
+.landingpage-container h3 {
+    text-align: center;
+}
+
 .landingpage-right {
     flex: 1;
     width: 100%;
 }
 
 .landingpage-form {
-    margin-top: 65px;
+    margin-top: 95px;
     margin-bottom: 50px;
 }
